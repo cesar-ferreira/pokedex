@@ -6,7 +6,7 @@ import 'package:pokedex/modules/presentation/protocols/protocols.dart';
 
 class GetPokemonList implements GetPokemonListProtocol {
 
-  final PokemonRepositoryProtocol repository;
+  final PokemonListRepositoryProtocol repository;
 
   GetPokemonList(this.repository);
 
