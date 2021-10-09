@@ -1,9 +1,9 @@
 import 'package:dartz/dartz.dart';
 import 'package:pokedex/core/error/exception.dart';
 import 'package:pokedex/core/error/failure.dart';
-import 'package:pokedex/modules/domain/entities/pokemon.dart';
-import 'package:pokedex/modules/domain/protocols/protocols.dart';
-import 'package:pokedex/modules/infrastructure/protocols/protocols.dart';
+import 'package:pokedex/modules/Home/domain/entities/entities.dart';
+import 'package:pokedex/modules/Home/domain/protocols/protocols.dart';
+import 'package:pokedex/modules/Home/infrastructure/protocols/protocols.dart';
 
 class PokemonListRepository implements PokemonListRepositoryProtocol {
 
