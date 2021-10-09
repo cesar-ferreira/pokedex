@@ -1,4 +1,5 @@
-import 'package:pokedex/modules/domain/entities/entities.dart';
+
+import 'package:pokedex/modules/Home/domain/entities/entities.dart';
 
 abstract class PokemonListRemoteDataSourceProtocol {
 

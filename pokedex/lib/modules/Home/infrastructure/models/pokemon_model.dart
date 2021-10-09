@@ -1,6 +1,7 @@
 import 'dart:convert';
 
-import 'package:pokedex/modules/domain/entities/entities.dart';
+import 'package:pokedex/modules/Home/domain/entities/entities.dart';
+
 
 class PokemonModel extends Pokemon {
 
